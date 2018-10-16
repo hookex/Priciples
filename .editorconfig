@@ -1,0 +1,29 @@
+# editorconfig.org
+# https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+max_line_length = 140
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+
+[*.md]
+indent_size = 4
+trim_trailing_whitespace = false
+
+[*.ts]
+quote_type = single
+spaces_around_operators = true
+curly_bracket_next_line = false
+continuation_indent_size = 4
+indent_brace_style = BSD KNF
+indent_size = 2
+max_line_length = 140
+spaces_around_brackets = outside
+spaces_around_operators = true
