@@ -1,4 +1,4 @@
-# fe-standard
+# Priciples
 前端标准化
 
 ### 代码规范
