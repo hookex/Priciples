@@ -1,5 +1,9 @@
 # Priciples
-前端标准化
+在变化的前端中，寻找不变
+
+### 最优工具
+
+工具.md
 
 ### 代码规范
 
@@ -10,3 +14,5 @@ style.md
 .editorconfig
 
 ### tslint配置文件
+
+todo
